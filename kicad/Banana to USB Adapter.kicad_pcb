@@ -84,7 +84,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "C:/Users/balde/Dropbox/Projects/Test Tool Projects/Banana to USB Adapter/kicad/gerbs v2/")
     )
   )
 
@@ -302,7 +302,7 @@
         (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 5dcb9a2c-de4a-454f-be0d-9cda6ae8591b)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.635 0.635) (drill 0.635) (layers "*.Cu" "*.Mask") (tstamp 9a3fbc50-cafc-4cd0-9b72-874ab5a88f9b))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.635 0.635) (drill 0.635) (layers "*.Cu" "*.Mask") (tstamp 5820a67a-b928-4d47-b593-2c9b5b01cea8))
   )
 
   (footprint "My Libraries:USB_A_GCT_USB1125" (layer "F.Cu")
@@ -396,7 +396,7 @@
         (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 718f6f16-b433-492f-b81e-577725c0a41c)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.635 0.635) (drill 0.635) (layers "*.Cu" "*.Mask") (tstamp 9e01b232-eec0-4843-8533-4a38a8259c8c))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.635 0.635) (drill 0.635) (layers "*.Cu" "*.Mask") (tstamp e53868d8-c55e-4d30-9747-0419cf1fe000))
   )
 
   (footprint "" (layer "F.Cu")
@@ -410,7 +410,7 @@
         (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp a8d86fe2-1cdd-4e11-9ee5-ae3d75ef67ac)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 0.635 0.635) (drill 0.635) (layers "*.Cu" "*.Mask") (tstamp 8c26ca80-86a7-435d-b406-9600b1a6e044))
+    (pad "" np_thru_hole circle (at 0 0) (size 0.635 0.635) (drill 0.635) (layers "*.Cu" "*.Mask") (tstamp 2a99bd46-0cfb-494f-aeb7-dd79372b8651))
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
@@ -570,7 +570,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f10efb91-a933-4c13-b4bf-b89b5b40842d)
     )
-    (pad "" np_thru_hole circle (at -0.127 -0.2032) (size 0.635 0.635) (drill 0.635) (layers "*.Cu" "*.Mask") (tstamp 822dbfd2-7758-4471-833d-f2c55ac4ced5))
+    (pad "" np_thru_hole circle (at -0.127 -0.2032) (size 0.635 0.635) (drill 0.635) (layers "*.Cu" "*.Mask") (tstamp 1f3fc5f2-f523-4d65-8649-21648f530c11))
   )
 
   (footprint "My Libraries:25mil_Hole" (layer "F.Cu")
@@ -585,7 +585,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 08fc4318-bc75-469d-92a5-c190f965dbdc)
     )
-    (pad "" np_thru_hole circle (at -0.127 -0.2032) (size 0.635 0.635) (drill 0.635) (layers "*.Cu" "*.Mask") (tstamp 14818e33-defd-47ee-b643-fed2e2e647c2))
+    (pad "" np_thru_hole circle (at -0.127 -0.2032) (size 0.635 0.635) (drill 0.635) (layers "*.Cu" "*.Mask") (tstamp 2e74e2b9-6c74-4867-aa2c-5329f2f635c1))
   )
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via" (layer "F.Cu")
@@ -705,7 +705,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ca7c81b2-dbe5-4bba-b879-b613a663d52e)
     )
-    (pad "" np_thru_hole circle (at -0.127 -0.2032) (size 0.635 0.635) (drill 0.635) (layers "*.Cu" "*.Mask") (tstamp 4fac1ead-5880-4e9d-b63b-2d6e02446d7e))
+    (pad "" np_thru_hole circle (at -0.127 -0.2032) (size 0.635 0.635) (drill 0.635) (layers "*.Cu" "*.Mask") (tstamp e8ddea56-491b-44dc-a17b-ddc64f972326))
   )
 
   (footprint "My Libraries:25mil_Hole" (layer "F.Cu")
@@ -720,7 +720,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp be0d0415-dea2-44c3-a381-2769c9438a6a)
     )
-    (pad "" np_thru_hole circle (at -0.127 -0.2032) (size 0.635 0.635) (drill 0.635) (layers "*.Cu" "*.Mask") (tstamp 9a6d2598-7168-4f36-b64d-417fd96b8565))
+    (pad "" np_thru_hole circle (at -0.127 -0.2032) (size 0.635 0.635) (drill 0.635) (layers "*.Cu" "*.Mask") (tstamp 69e97307-73af-4b69-90e6-f36cd77a3888))
   )
 
   (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder" (layer "F.Cu")
@@ -978,9 +978,9 @@
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp f43a1499-8179-4b38-b8b3-03a28ae8158a))
   (gr_line (start 139.375 96.2) (end 139.375 96.175)
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp fbee5148-ac46-4698-ae67-9fd318cf7498))
-  (gr_rect (start 132.05 93.3314) (end 137.2498 86.1686)
+  (gr_rect (start 132.05 86.1686) (end 137.2498 93.3314)
     (stroke (width 0.15) (type default)) (fill solid) (layer "B.Mask") (tstamp 2fb38312-8558-49a5-b774-d1e95543223a))
-  (gr_rect (start 132.075 112.5314) (end 137.2748 105.3686)
+  (gr_rect (start 132.075 105.3686) (end 137.2748 112.5314)
     (stroke (width 0.15) (type default)) (fill solid) (layer "B.Mask") (tstamp a9340fb2-c4cb-475c-82c7-1f1f02c39af8))
   (gr_rect (start 137.4776 103.516) (end 144.4224 112.925)
     (stroke (width 0.15) (type default)) (fill solid) (layer "B.Mask") (tstamp c9ffc45b-e14d-4001-89fe-a3e0eac2b29a))
