@@ -1,12 +1,17 @@
-![Banana jack (4mm, 19mm) to USB-A Adapter](images/Banana_to_USB_Adapter_rev1.jpg?raw=true "Banana (4mm) to USB-A")
-## Banana to USB-A Adapter
-* Connect USB-A devices to a bench power supply.
-* Intended to be used with [Ponoma 72918 banana plug](https://octopart.com/72918-pomona+electronics-585505?r=sp). Break off the two M3 holes, use the tabs to solder them together at 90 degrees, and plug into power supply.
-* Rev 1 project link on [OSH Park](https://oshpark.com/shared_projects/gjQOWRep).
+![Banana jack (4mm, 19mm) to USB-A Adapter](images/banana_to_usb_angled.png?raw=true "Banana (4mm) to USB-A")
 
-## KiCad pre-7.0 
-These files were created with a 6.99 nightly build.
+These adpaters let you plug common power types into a bench power supply. They require a little bit of caution on your side. For example, don't apply 9 volts to the USB adapter!
+
+Each adapter is two pieces made from a single PCB. The part that holds the banana plugs inserts into the adapter part. Then you solder them together. 
 
 
-## Live Stream
-This entire project has been livestreamed on [Bald Engineer Live](https://twitch.tv/baldengineer).
+## To use them.
+* One pack of [Ponoma 72918 4mm banana plug](https://octopart.com/72918-pomona+electronics-585505?r=sp). 
+* Break off the two M3 holes
+* Use the tabs to solder them together at 90 degrees
+* Optional, add LED with current limiting resistor. 
+* Optional, clamping diode.
+* Plug into power supply. :)
+
+## Discuss on Discord
+Join the [AddOhms/Baldengineer Discord](https://discord.gg/Q3xzyuWqm6) to discuss this project.
