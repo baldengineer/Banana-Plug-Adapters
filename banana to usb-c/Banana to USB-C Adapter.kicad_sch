@@ -5,7 +5,7 @@
 	(uuid "b8d30d27-a840-4da1-9b57-1f9fe5fa1469")
 	(paper "A4")
 	(title_block
-		(title "Banana-to-usb adapter")
+		(title "Banana to USB-C Adapter (Power Only)")
 		(date "2024-04-06")
 		(rev "2")
 		(company "baldengineer.com")
