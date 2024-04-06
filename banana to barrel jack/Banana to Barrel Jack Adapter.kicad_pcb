@@ -123,6 +123,77 @@
 	(net 2 "/Positive")
 	(net 3 "Net-(D1-A)")
 	(net 4 "Net-(D2-A)")
+	(footprint ""
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "01a6dfaa-a93b-4819-b911-fd5cd37904da")
+		(at 136.89 96.122884)
+		(property "Reference" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "64e193a0-b6d2-4773-b944-bf313722ed73")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "eb78c47f-318a-4fd8-b22d-3c1fe80e86cf")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b347e0af-f656-4bf5-ac45-3b97a20620d6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "09b5265d-ea9a-4fd2-a70d-97d57a7a3b59")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2e311a0c-637b-440b-bf45-52062cc262a7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "14818e33-defd-47ee-b643-fed2e2e647c2")
+		)
+	)
 	(footprint "Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal"
 		(layer "F.Cu")
 		(uuid "3bea9578-9615-4c71-ab85-29bcce94aa9a")
@@ -465,6 +536,79 @@
 			)
 		)
 	)
+	(footprint "My Libraries:25mil_Hole"
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "3e2fb1bc-0775-4105-bc29-87c331baccc5")
+		(at 133.018494 99.55)
+		(property "Reference" "REF**"
+			(at 0 0.5 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "f3dded48-b48d-4e36-904e-330b20389808")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "25mil_Hole"
+			(at 0 -0.5 0)
+			(layer "F.Fab")
+			(uuid "39d76868-6dee-4c64-86fc-375930e8ccae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "80a9f41c-ef0e-46ce-b93d-e88719feab59")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c686731c-f125-4084-9a34-417a149f62ab")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "572b9e78-0ba3-49ca-a651-12ec5b961745")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "" np_thru_hole circle
+			(at -0.127 -0.2032)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "8c26ca80-86a7-435d-b406-9600b1a6e044")
+		)
+	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "43f6c255-8570-4398-b3a3-c020bdcd954e")
@@ -716,6 +860,79 @@
 			)
 		)
 	)
+	(footprint "My Libraries:25mil_Hole"
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "47d437da-3898-4d48-ac27-8ac59058b4c1")
+		(at 133.018494 103.056308)
+		(property "Reference" "REF**"
+			(at 0 0.5 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "46fc02af-b2ec-4029-90fc-bf3896f458f3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "25mil_Hole"
+			(at 0 -0.5 0)
+			(layer "F.Fab")
+			(uuid "f10efb91-a933-4c13-b4bf-b89b5b40842d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e80b40dd-c4e6-44e9-a359-7b1a42efd63a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1904d791-39ea-4133-aca0-411463714d2a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "21c41e7c-fc8e-41b8-bc45-12a2ca33613a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "" np_thru_hole circle
+			(at -0.127 -0.2032)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "1f3fc5f2-f523-4d65-8649-21648f530c11")
+		)
+	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
 		(layer "F.Cu")
 		(uuid "5d6b6c3e-2bd6-4c3e-847e-fb5b30739dca")
@@ -921,6 +1138,298 @@
 			(pintype "input")
 			(zone_connect 2)
 			(uuid "39a1127e-fea1-4fa6-8c50-87a6143deb60")
+		)
+	)
+	(footprint "My Libraries:25mil_Hole"
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "70ec78a8-5725-44da-b9b6-12bf7ac9f448")
+		(at 133.018494 96.43124)
+		(property "Reference" "REF**"
+			(at 0 0.5 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "a86b7e3f-f9cf-443a-87da-164ccdcb9e81")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "25mil_Hole"
+			(at 0 -0.5 0)
+			(layer "F.Fab")
+			(uuid "08fc4318-bc75-469d-92a5-c190f965dbdc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6624e912-96f4-4b69-bfc7-3b87da3adc7b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1ad171a-cf93-4e04-8c88-6d80d5e00295")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "14cbd9d6-9ae1-4982-996e-4a2ec5d9c592")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "" np_thru_hole circle
+			(at -0.127 -0.2032)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "2e74e2b9-6c74-4867-aa2c-5329f2f635c1")
+		)
+	)
+	(footprint "My Libraries:25mil_Hole"
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "79b7186c-916a-4ac2-8977-4cd38ca337d3")
+		(at 128.427 99.4932)
+		(property "Reference" "REF**"
+			(at 0 0.5 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "5d778e5c-e94a-4181-8e83-ccf71b404927")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "25mil_Hole"
+			(at 0 -0.5 0)
+			(layer "F.Fab")
+			(uuid "be88ec5c-4277-4a18-9191-38cf85f704fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d70eaa1d-1c47-49a2-b52c-ce796c1af6e2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4a4af59d-6684-499c-883f-0cb35c3fcaab")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "89262b6b-f329-4599-9add-7c74b5f85415")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "" np_thru_hole circle
+			(at -0.127 -0.2032)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "5a1137f2-8365-40c5-a459-68829474bded")
+		)
+	)
+	(footprint "My Libraries:25mil_Hole"
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "8993e6f5-2b84-4f3f-b9a3-119ab162d434")
+		(at 127.265494 99.4932)
+		(property "Reference" "REF**"
+			(at 0 0.5 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "065cfb0e-ee06-4642-9475-f717fcf5506b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "25mil_Hole"
+			(at 0 -0.5 0)
+			(layer "F.Fab")
+			(uuid "b93d1494-46fe-4d0c-956d-36a32265fc81")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f3524459-baff-4f29-b6b6-295b9f953489")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "12934961-567b-43b2-a43e-c0321a58149d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "558d6a99-18a0-4df6-82d6-ec42ea47782c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "" np_thru_hole circle
+			(at -0.127 -0.2032)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "f85cd290-1650-4d55-a915-aecc0b82e58f")
+		)
+	)
+	(footprint "My Libraries:25mil_Hole"
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "9189caa0-d403-457f-bb5e-e5e08b421ecd")
+		(at 129.588506 99.4932)
+		(property "Reference" "REF**"
+			(at 0 0.5 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "1d4be602-d12b-4a02-b63c-98e3b252b2fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "25mil_Hole"
+			(at 0 -0.5 0)
+			(layer "F.Fab")
+			(uuid "63092bab-bb9c-4f7b-9fb1-29412417684d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e481a518-8eba-45f9-90b0-808b66a35c4a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dbc1f14d-3d07-4ec9-94eb-b2a96a258048")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b4d7066a-7482-4960-b01e-1693857ca55d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "" np_thru_hole circle
+			(at -0.127 -0.2032)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "2a305ad1-6824-4ea3-8987-d628ff128a26")
 		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
@@ -1174,6 +1683,79 @@
 			)
 		)
 	)
+	(footprint "My Libraries:25mil_Hole"
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "993e0768-14a4-42b3-8e4e-15908319652f")
+		(at 130.750012 99.4932)
+		(property "Reference" "REF**"
+			(at 0 0.5 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "a9305fe6-ac9d-4ca3-81a2-ff164dd57e33")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "25mil_Hole"
+			(at 0 -0.5 0)
+			(layer "F.Fab")
+			(uuid "6d4ce2de-f14b-40e7-8ef2-282791d3dabd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aeec7253-8093-440d-81d7-33acafe0be34")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d14fb7d5-f7a5-4348-ac31-05be7f7de706")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "58fa3d59-d95e-4769-b6aa-e4a37448d98f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "" np_thru_hole circle
+			(at -0.127 -0.2032)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "00f75c0d-c98b-4611-82e0-78ba71293990")
+		)
+	)
 	(footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "a0dde4ff-eb75-4347-a25a-5fd083f06cf9")
@@ -1382,6 +1964,296 @@
 			)
 		)
 	)
+	(footprint "My Libraries:25mil_Hole"
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "a67d0ab8-7274-42f4-9365-751c3a05ae10")
+		(at 133.018494 100.783356)
+		(property "Reference" "REF**"
+			(at 0 0.5 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "891ddaa8-ea7e-4302-b8b6-3cc91e73db14")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "25mil_Hole"
+			(at 0 -0.5 0)
+			(layer "F.Fab")
+			(uuid "ca7c81b2-dbe5-4bba-b879-b613a663d52e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "19a769d5-9981-4b46-8443-75f3d7669c1e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9bd69a69-b007-4121-9442-e0d542bbee24")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "12e353cd-de48-48b0-b2c9-5ba04e557a81")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "" np_thru_hole circle
+			(at -0.127 -0.2032)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "e8ddea56-491b-44dc-a17b-ddc64f972326")
+		)
+	)
+	(footprint "My Libraries:25mil_Hole"
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "a95fcdc7-68cc-4624-831d-9a80f192f042")
+		(at 131.911518 99.4932)
+		(property "Reference" "REF**"
+			(at 0 0.5 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "c7f30934-9287-44e2-a8bb-7b80a2f43a99")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "25mil_Hole"
+			(at 0 -0.5 0)
+			(layer "F.Fab")
+			(uuid "10be469a-9eac-460c-9444-d9a33b18edb5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d5961a2-c39b-4a91-8eb8-92176fb1ef4f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f499ea96-8197-43dd-b54d-1dc6395a2748")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c2b38556-0bd1-4678-8c95-112273c52297")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "" np_thru_hole circle
+			(at -0.127 -0.2032)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "b52026c5-cd12-4e03-a0b1-7d477d01733a")
+		)
+	)
+	(footprint ""
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "ab7b7c09-5d74-4ef2-abf8-6bd627df2c10")
+		(at 136.89 102.747952)
+		(property "Reference" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "18fd8d17-bd07-48a5-8408-1ab3f1112fe1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "43763580-c673-4c30-99a9-72e09fe93175")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6aaa33f6-d45d-4671-b755-fef3647e86a7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9610d401-2d2e-4e14-99a9-d7f90116c7bd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "34419e1c-3d98-4243-aeaf-82e4a7bd1cea")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "822dbfd2-7758-4471-833d-f2c55ac4ced5")
+		)
+	)
+	(footprint "My Libraries:25mil_Hole"
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "b1372f07-69f4-4b78-b735-8dc9348c96d8")
+		(at 126.103988 99.4932)
+		(property "Reference" "REF**"
+			(at 0 0.5 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "aad7295b-15ab-44d1-aa25-f7dc5f28e285")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "25mil_Hole"
+			(at 0 -0.5 0)
+			(layer "F.Fab")
+			(uuid "5c7619f3-d3fc-4986-8cfe-bddd626c4eb3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cd193787-fe58-421e-9142-5abdcbfbcbe7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "58a90921-1b43-4645-a90a-ae3e47baec84")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b3fab94-9540-4ee9-a72e-5cba98cd5799")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "" np_thru_hole circle
+			(at -0.127 -0.2032)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "5b296a4d-d0ca-4b42-8324-d9465b4fda7a")
+		)
+	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
 		(layer "F.Cu")
 		(uuid "b2c61ce6-a78e-4e3c-9152-444cff4b87d2")
@@ -1587,6 +2459,580 @@
 			(pintype "input")
 			(zone_connect 2)
 			(uuid "a6abb82b-5de3-49f9-9d00-f1b1393675e5")
+		)
+	)
+	(footprint ""
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "b60ab777-3399-46e1-bc16-9d51611937b3")
+		(at 136.89 97.194764)
+		(property "Reference" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "c52860c9-bd7e-43da-82f1-d13ae902ce10")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "718f6f16-b433-492f-b81e-577725c0a41c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4bfac7aa-ddd9-4d47-a50a-1195354b821d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94dce54e-9224-468c-9c58-feb56ae31c47")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "86061606-ca2e-459e-aa5a-819dd3df7540")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "e53868d8-c55e-4d30-9747-0419cf1fe000")
+		)
+	)
+	(footprint "My Libraries:25mil_Hole"
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "b6327bc6-4cf4-4f65-a130-21fc81406b2c")
+		(at 133.018494 97.50312)
+		(property "Reference" "REF**"
+			(at 0 0.5 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "a7778225-ecdf-4587-ad02-1f26b10d8bfc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "25mil_Hole"
+			(at 0 -0.5 0)
+			(layer "F.Fab")
+			(uuid "aa92fcb1-8ddb-403e-9718-a1d893c2458d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c0753f96-a1c4-4b7a-b9b0-588ab4c7a0f9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "be23e985-0f4c-4897-840d-58c424e63e05")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bc82ac7e-7e2a-4878-99a1-14a1a561f148")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "" np_thru_hole circle
+			(at -0.127 -0.2032)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "9e01b232-eec0-4843-8533-4a38a8259c8c")
+		)
+	)
+	(footprint ""
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "ba501e98-9c0a-4af2-8497-0592192dc189")
+		(at 136.89 99.313124)
+		(property "Reference" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "33b4a837-dd08-4613-9d9a-b237b4b15f30")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "a8d86fe2-1cdd-4e11-9ee5-ae3d75ef67ac")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "754705ab-6cee-450b-bcec-f3244ec04be7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "01ebe430-0203-49fd-bcc5-8ba4fa14f592")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ada18c9b-a4b9-4004-b224-0c9b860946c8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "2a99bd46-0cfb-494f-aeb7-dd79372b8651")
+		)
+	)
+	(footprint ""
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "bc069b48-343c-4d19-b876-fd07fd9ece2c")
+		(at 136.89 101.611476)
+		(property "Reference" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "22d8dfcd-8ba4-4080-b4b3-8d38dc6a86a3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "e8bb6466-5502-4e4b-8702-135a4e55244d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "16d38af0-f448-4210-9ac3-5e841537fa8b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b07f0349-05c2-4ac7-af4f-eb689bf929a4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f37fa5ec-34e6-4b7a-bb3f-da93579e002f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "9a6d2598-7168-4f36-b64d-417fd96b8565")
+		)
+	)
+	(footprint "My Libraries:25mil_Hole"
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "c31296cc-fa29-4bdb-bc0e-77be93f03a0d")
+		(at 133.018494 101.919832)
+		(property "Reference" "REF**"
+			(at 0 0.5 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "6a788c56-718c-4161-9ebe-7d7fe581d6c5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "25mil_Hole"
+			(at 0 -0.5 0)
+			(layer "F.Fab")
+			(uuid "be0d0415-dea2-44c3-a381-2769c9438a6a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41dfbd42-db53-4664-a702-cae0e6ca4326")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aeceb661-b531-402f-962b-b4e1087a5255")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b5e3c020-646d-4e9e-840a-f8b0c4db20d7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "" np_thru_hole circle
+			(at -0.127 -0.2032)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "69e97307-73af-4b69-90e6-f36cd77a3888")
+		)
+	)
+	(footprint ""
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "dab4bbf9-4a24-43d0-b887-bffe1963470c")
+		(at 136.89 98.266644)
+		(property "Reference" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "bdead9c8-2313-48fd-a0e1-77f079a4b9bc")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "5dcb9a2c-de4a-454f-be0d-9cda6ae8591b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "927925fa-9c33-421d-a90a-6f91d8d2c8a4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aba04dc7-b9ba-436c-bedf-f43e1929da9d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "75af8db8-1319-4ff6-9a42-643b57b80270")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "5820a67a-b928-4d47-b593-2c9b5b01cea8")
+		)
+	)
+	(footprint "My Libraries:25mil_Hole"
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "ebc2a8f2-c297-4e7f-a9ce-6bdc3e6b1b6e")
+		(at 133.018494 98.575)
+		(property "Reference" "REF**"
+			(at 0 0.5 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "12ae24d4-2329-49ff-a76b-a5eb81c5e318")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "25mil_Hole"
+			(at 0 -0.5 0)
+			(layer "F.Fab")
+			(uuid "cacd39ec-c58a-409a-a06e-50f479803ada")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8941bb0a-7d48-4a54-8543-da92f689386c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2252de74-cfc7-4839-8942-422856009e72")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eee01d4d-ccb3-4e5b-a0cd-f0e62a0b9d18")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "" np_thru_hole circle
+			(at -0.127 -0.2032)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "9a3fbc50-cafc-4cd0-9b72-874ab5a88f9b")
+		)
+	)
+	(footprint ""
+		(locked yes)
+		(layer "F.Cu")
+		(uuid "f08a6beb-3acc-4f69-8f58-07773b8195d9")
+		(at 136.89 100.475)
+		(property "Reference" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "f45a46fb-e572-4935-8e14-0593324b8204")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "c38ddb17-5e55-497c-acad-51406bec2ec1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e3c3261-6c62-4029-a182-98e49636513b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "daabaf36-46ce-412e-aad4-8d2a6888e251")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c15e213b-19d4-45dc-8e27-75b5c01c6eb8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 0.635 0.635)
+			(drill 0.635)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "4fac1ead-5880-4e9d-b63b-2d6e02446d7e")
 		)
 	)
 	(footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
