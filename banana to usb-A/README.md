@@ -9,4 +9,4 @@
 See root page for instructions on how to use them.
 
 ## Discuss on Discord
-Join the [AddOhms/Baldengineer Discord](https://discord.gg/Q3xzyuWqm6) to discuss this proje
+Join the [AddOhms/Baldengineer Discord](https://discord.gg/Q3xzyuWqm6) to discuss this project
