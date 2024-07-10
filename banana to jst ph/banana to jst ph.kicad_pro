@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.0
+          "min_clearance": 0.1524
         }
       },
       "diff_pair_dimensions": [
@@ -58,7 +58,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "text_thickness|158115000|89789000|2b0eeb6e-e0c9-491d-bf95-e8c06e6aba08|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -79,6 +81,7 @@
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -445,7 +448,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Banana to USB-C Adapter.kicad_pro",
+    "filename": "banana to jst ph.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -492,14 +495,23 @@
     "netclass_assignments": {
       "/Positive": "Power"
     },
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Power",
+        "pattern": "/Positive"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "GND"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "banana to usbc gerbs v2/",
+      "plot": "banana to jst ph rev2/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -510,6 +522,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
