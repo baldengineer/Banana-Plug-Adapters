@@ -2270,6 +2270,15 @@
 				(hide yes)
 			)
 		)
+		(property "Newark" "38K8067"
+			(at 133.35 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8aca48d6-3c85-4ab1-ac52-dd31589e8200")
 		)
