@@ -4,5 +4,8 @@ This adapter is intended to support Adafruit-style LiPo battery connections for 
 
 (You could probably also use the adapter to recondition a LiPo below its minimum safe voltage.)
 
+## PCB Status
+Work in-progress: waiting for board to come back from fab.
+
 ## Discuss on Discord
 Join the [AddOhms/Baldengineer Discord](https://discord.gg/Q3xzyuWqm6) to discuss this project
