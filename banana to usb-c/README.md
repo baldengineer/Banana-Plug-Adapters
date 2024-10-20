@@ -1,4 +1,6 @@
-Banana Plug to USB-C (Power Only) Adapter
+# Banana Plug to USB-C (Power Only) Adapter
+
+![usb-c v3](https://github.com/baldengineer/Banana-Plug-Adapters/blob/main/images/Banana_to_USB-C_Adapter_v3.jpg)
 
 Based on the `USB4125-GF-A` 6 position surface mount connector.
 
@@ -9,7 +11,7 @@ Version 2 had placements for pull-down resistors. As the DFP, this board should 
 2024-OCT-20: V3 has not been tested yet.
 
 ## DFP Pull-Up Values
-| DFP Advertisement | R Pull-Up to 4.75 - 5.5 V | R Pull-Up to 3.3 ±5%
+| **DFP Advertisement** | **R Pull-Up to 4.75 - 5.5 V** | **R Pull-Up to 3.3 ±5%** |
 | :--- | :---: | :---: |
 | **Default USB PWR** | 56 kΩ ± 20% | 36 kΩ ± 20% |
 | **1.5 A at 5 V** | 22 kΩ ± 5%  | 12 kΩ ± 5% |
