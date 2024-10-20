@@ -5,6 +5,9 @@ Based on the `USB4125-GF-A` 6 position surface mount connector.
 ## Version 3: DFP Fix
 Version 2 had placements for pull-down resistors. As the DFP, this board should have pull-up resistors. Turns out, most UFP devices don't care so v2 works fine in most cases.
 
+### Status
+2024-OCT-20: V3 has not been tested yet.
+
 ## DFP Pull-Up Values
 | DFP Advertisement | R Pull-Up to 4.75 - 5.5 V | R Pull-Up to 3.3 ±5%
 | :--- | :---: | :---: |
